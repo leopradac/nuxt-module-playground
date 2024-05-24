@@ -3,4 +3,12 @@ export default defineNuxtConfig({
   myModule: {},
   devtools: { enabled: true },
   ssr: false,
+  app: {
+    baseURL: '/nuxt-module-playground/',
+  },
+  nitro: {
+    output: {
+      publicDir: '../docs',
+    },
+  },
 })
