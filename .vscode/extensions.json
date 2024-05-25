@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "nuxtr.nuxt-vscode-extentions",
+        "hollowtree.vue-snippets",
+        "deque-systems.vscode-axe-linter",
+        "sdras.vue-vscode-snippets",
+        "vuetifyjs.vuetify-vscode",
+    ]
+}
